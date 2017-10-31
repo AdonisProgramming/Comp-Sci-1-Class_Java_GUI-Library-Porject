@@ -1,0 +1,13 @@
+Book Library Application
+
+You are required to create a GUI application for a Book Library. 
+
+The Application must display a splash screen, Add Book Screen, Delete Book Screen and Find Book Screen. 
+
+Each book class should have a Book ISBN, Book Title, Book Author and Book year published. 
+
+Pls. use array lists to add, delete and modify student details. 
+
+You will notice that you would not be able to save the data  permanently as there is no database in place, and this is fine.
+
+A useful link http://docs.oracle.com/javafx/2/ui_controls/text-field.htm.
